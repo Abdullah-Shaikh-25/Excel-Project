@@ -47,10 +47,10 @@ Dataset: Bike Buyers Dataset
 - `README.md` → Project documentation (this file)
 
 ## 📊 Dashboard Preview
-![Dashboard]<img width="970" height="615" alt="image" src="https://github.com/user-attachments/assets/cbf0e97b-1598-4e22-a6d1-4ef5534a2bdd" />
+<img width="970" height="615" alt="image" src="https://github.com/user-attachments/assets/cbf0e97b-1598-4e22-a6d1-4ef5534a2bdd" />
 
 ## 📈 Pivot Table Preview
-![Pivot]<img width="667" height="632" alt="image" src="https://github.com/user-attachments/assets/4404c0f0-e84d-4beb-add4-ed329e49596a" />
+<img width="667" height="632" alt="image" src="https://github.com/user-attachments/assets/4404c0f0-e84d-4beb-add4-ed329e49596a" />
 
 ## 🚀 How to Use
 1. Open the Excel file in Microsoft Excel.  
